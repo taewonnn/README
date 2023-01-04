@@ -25,6 +25,7 @@
 
 **[배포 URL]**
 - URL : https://....
+- Test ID : taewon@naver.com / PW : 123123
 
 ## 🔍 담당
 ### [👩‍💻김민지](https://github.com/minzyee)
